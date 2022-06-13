@@ -1,0 +1,36 @@
+body {
+  margin: 10% 20% 10% 20%;
+  background-color: whitesmoke;
+}
+
+div {
+  display: inline-block;
+  width: 32%;
+  height: 200px;
+}
+
+h1,
+h2 {
+  color: #2c610d;
+  /* Setze unter color eine Farbe ein */
+}
+
+p {
+  color: #0d1561;
+  /* Setze unter color eine Farbe ein */
+}
+
+#div1 {
+  background-color: #256103;
+  /* Setze unter color eine Farbe ein */
+}
+
+#div2 {
+  background-color: #61250d;
+  /* Setze unter color eine Farbe ein */
+}
+
+#div3 {
+  background-color: #612108;
+  /* Setze unter color eine Farbe ein */
+}
